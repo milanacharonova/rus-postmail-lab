@@ -28,6 +28,7 @@ public:
     void setWeight (int weight) { _weight = weight; }
     void setId(int id) { _id = id; }
 };
+
 class post {
     int _x;//Координата отделения по х
     int _y;//Координата отделения по у
